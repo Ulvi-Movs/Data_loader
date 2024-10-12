@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "TabularRAG"
+name = "DataLoader"
 version = "0.1.0"
-description = "RAG adoptation fro tabular data"
+description = "Data loader for usage in couple projects"
 authors = ["Ulvi Movsum-zada"]
 license = "MIT"
 
